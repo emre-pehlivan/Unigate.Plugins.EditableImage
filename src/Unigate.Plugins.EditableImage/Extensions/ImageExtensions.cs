@@ -21,7 +21,7 @@ namespace Unigate.Plugins.EditableImage
             if (file == null)
             {
                 file = new EditableImage();
-                file.ImageFile = "https://cdn.yemeksepeti.com/CategoryImages/TR_ISTANBUL/manti_evi_baglarbasi_big.gif";
+                file.ImageFile = "/Modules/Plugins/Unigate.Plugins.EditableImage/Assets/Images/noimage.png";
                 file.ContentId = new Guid();
             }
 
@@ -29,7 +29,7 @@ namespace Unigate.Plugins.EditableImage
 
             if (auth)
             {
-                string pencil = "<img class=\"filebrowser pencil\" data-code=\"" + fileCode + "\" src=\"http://icons.iconarchive.com/icons/pixelmixer/basic/16/pencil-icon.png\">";
+                string pencil = "<img class=\"filebrowser pencil\" data-code=\"" + fileCode + "\" src=\"/Modules/Plugins/Unigate.Plugins.EditableImage/Assets/Images/pencil.png\">";
                 return "<span class=\"editable-imageholder\">" + pencil + image + "</span>";
             }
 
