@@ -1,0 +1,120 @@
+﻿{
+    "Values": [
+        {
+            "Key": "DEVAMINI OKU",
+            "Value": "DEVAMINI OKU"
+        },
+        {
+            "Key": "TumHaberler",
+            "Value": "Tüm Haberler"
+        },
+        {
+            "Key": "Tüm Duyurular",
+            "Value": "Tüm Duyurular"
+        },
+        {
+            "Key": "DUYURULAR",
+            "Value": "DUYURULAR"
+        },
+        {
+            "Key": "Haber Kategorisi",
+            "Value": "Haber Kategorisi"
+        },
+        {
+            "Key": "Yıl Seçiniz",
+            "Value": "Yıl Seçiniz"
+        },
+        {
+            "Key": "Kelime Yazınız...",
+            "Value": "Kelime Yazınız..."
+        },
+        {
+            "Key": "GÖSTER",
+            "Value": "GÖSTER"
+        },
+        {
+            "Key": "Önceki",
+            "Value": "Önceki"
+        },
+        {
+            "Key": "Sonraki",
+            "Value": "Sonraki"
+        },
+        {
+            "Key": "/dil/haberler",
+            "Value": "/tr/haberler"
+        },
+        {
+            "Key": "Duyuru Kategorisi",
+            "Value": "Duyuru Kategorisi"
+        },
+        {
+            "Key": "/dil/duyurular",
+            "Value": "/tr/duyurular"
+        },
+        {
+            "Key": "Gonder",
+            "Value": "Gönder"
+        },
+        {
+            "Key": "E-Posta Adresi...",
+            "Value": "E-Posta Adresi..."
+        },
+        {
+            "Key": "FOTOGRAFLAR",
+            "Value": "FOTOĞRAFLAR"
+        },
+        {
+            "Key": "etkinlikTakvimi",
+            "Value": "ETKİNLİK TAKVİMİ"
+        },
+        {
+            "Key": "TumEtkinlikler",
+            "Value": "Tüm Etkinlikler"
+        },
+        {
+            "Key": "/dil/tum-etkinlikler",
+            "Value": "/tr/tum-etkinlikler"
+        },
+        {
+            "Key": "HangiBirim",
+            "Value": "Hangi Birim Tarafından"
+        },
+        {
+            "Key": "Nerede",
+            "Value": "Nerede"
+        },
+        {
+            "Key": "NeZaman",
+            "Value": "Ne Zaman"
+        },
+        {
+            "Key": "Etkinlik Kategorisi",
+            "Value": "Etkinlik Kategorisi"
+        },
+        {
+            "Key": "hizliUlasim",
+            "Value": "HIZLI ULAŞIM"
+        },
+        {
+            "Key": "fotovideogaleri",
+            "Value": "FOTO VE VİDEO GALERİ"
+        },
+        {
+            "Key": "fotograf",
+            "Value": "Fotoğraf"
+        },
+        {
+            "Key": "turseciniz",
+            "Value": "Tür Seçiniz"
+        },
+        {
+            "Key": "video",
+            "Value": "Video"
+        },
+        {
+            "Key": "galerikategorisi",
+            "Value": "Galeri Kategorisi"
+        }
+    ]
+}

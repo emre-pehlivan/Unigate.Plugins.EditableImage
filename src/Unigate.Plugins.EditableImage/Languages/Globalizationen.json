@@ -1,0 +1,125 @@
+﻿{
+    "Values": [
+		{
+		  "Key": "DEVAMINI OKU",
+		  "Value": "READ MORE"
+		},
+		{
+		  "Key": "TumHaberler",
+		  "Value": "All news"
+		},
+		{
+		  "Key": "Tum Duyurular",
+		  "Value": "All announcements"
+		},
+		{
+		  "Key": "DUYURULAR",
+		  "Value": "ANNOUNCEMENTS"
+		},
+		{
+		  "Key": "Haber Kategorisi",
+		  "Value": "News Categories"
+		},
+		{
+		  "Key": "Yıl Seçiniz",
+		  "Value": "Select Year"
+		},
+		{
+		  "Key": "Kelime Yazınız...",
+		  "Value": "Please write word..."
+		},
+		{
+		  "Key": "GÖSTER",
+		  "Value": "SHOW"
+		},
+		{
+		  "Key": "Önceki",
+		  "Value": "Prew"
+		},
+		{
+		  "Key": "Sonraki",
+		  "Value": "Next"
+		},
+		{
+		  "Key": "/dil/haberler",
+		  "Value": "/en/news"
+		},
+		{
+		  "Key": "Duyuru Kategorisi",
+		  "Value": "Announcement Categories"
+		},
+		{
+		  "Key": "/dil/duyurular",
+		  "Value": "/en/announcement"
+		},
+		{
+		  "Key": "Gonder",
+		  "Value": "Send"
+		},
+		{
+		  "Key": "E-Posta Adresi...",
+		  "Value": "E-Mail Address..."
+		},
+		{
+		  "Key": "E-BÜLTEN ÜYELİK",
+		  "Value": "E-NEWSLETTER MEMBERSHIP"
+		},
+		{
+		  "Key": "FOTOGRAFLAR",
+		  "Value": "PHOTOS"
+		},
+		{
+		  "Key": "etkinlikTakvimi",
+		  "Value": "EVENT CALENDAR"
+		},
+		{
+		  "Key": "TumEtkinlikler",
+		  "Value": "All Events"
+		},
+		{
+		  "Key": "/dil/tum-etkinlikler",
+		  "Value": "/en/all-events"
+		},
+        {
+            "Key": "HangiBirim",
+            "Value": "Which unit by"
+        },
+        {
+            "Key": "Nerede",
+            "Value": "Where"
+        },
+        {
+            "Key": "NeZaman",
+            "Value": "When"
+        },
+        {
+            "Key": "Etkinlik Kategorisi",
+            "Value": "Events Categories"
+        },
+        {
+            "Key": "hizliUlasim",
+            "Value": "QUICK ACCESS"
+        },
+        {
+            "Key": "fotovideogaleri",
+            "Value": "PHOTO AND VIDEO GALLERY"
+        },
+        {
+            "Key": "fotograf",
+            "Value": "Photo"
+        },
+        {
+            "Key": "turseciniz",
+            "Value": "Select Type"
+        },
+        {
+            "Key": "video",
+            "Value": "Video"
+        },
+        {
+            "Key": "galerikategorisi",
+            "Value": "Gallery Category"
+        }
+	]
+}
+

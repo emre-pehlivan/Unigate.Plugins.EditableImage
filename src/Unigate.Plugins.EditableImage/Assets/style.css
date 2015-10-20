@@ -1,0 +1,14 @@
+﻿.editable-imageholder {
+    position: relative;
+    display: inline-block;
+}
+
+    .editable-imageholder .pencil {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        background-color: #fff;
+        padding: 5px;
+        box-shadow: 3px 4px 5px black;
+        border: solid 1px Gray;
+    }
